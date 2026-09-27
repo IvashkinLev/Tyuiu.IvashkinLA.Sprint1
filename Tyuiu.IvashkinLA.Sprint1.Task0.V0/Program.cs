@@ -1,6 +1,6 @@
-﻿using Tyuiu.IvashkinLA.Sprint1.Task0.V0.Lib;
+﻿using Tyuiu.IvashkinLA.Sprint1.Task0.V29.Lib;
 
-namespace Tyuiu.IvashkinLA.Sprint1.Task0.V0
+namespace Tyuiu.IvashkinLA.Sprint1.Task0.V29
 {
     class Program
     {
